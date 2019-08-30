@@ -7,12 +7,6 @@
 
 > Computational problems resolved with various programming languages
 
-## Install
-
-```sh
-npm install
-```
-
 ## Author
 
 👤 **Noe**
