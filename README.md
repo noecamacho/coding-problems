@@ -24,3 +24,15 @@ This project is [WTFPL](http://www.wtfpl.net/) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/noecamacho/coding-problems/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/noecamacho/coding-problems/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
