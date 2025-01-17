@@ -35,4 +35,12 @@ _This README was generated with ❤️ by [readme-md-generator](https://github.c
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/noecamacho/coding-problems/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/noecamacho/coding-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/noecamacho/coding-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
