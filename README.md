@@ -31,6 +31,7 @@ _This README was generated with ❤️ by [readme-md-generator](https://github.c
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/noecamacho/coding-problems/tree/master/0001-two-sum) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/noecamacho/coding-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,8 +40,10 @@ _This README was generated with ❤️ by [readme-md-generator](https://github.c
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/noecamacho/coding-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/noecamacho/coding-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/noecamacho/coding-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/noecamacho/coding-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
