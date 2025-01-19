@@ -31,6 +31,7 @@ _This README was generated with ❤️ by [readme-md-generator](https://github.c
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/noecamacho/coding-problems/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/noecamacho/coding-problems/tree/master/0088-merge-sorted-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/noecamacho/coding-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
 |  |
@@ -46,4 +47,12 @@ _This README was generated with ❤️ by [readme-md-generator](https://github.c
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/noecamacho/coding-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/noecamacho/coding-problems/tree/master/2691-count-vowel-strings-in-ranges) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/noecamacho/coding-problems/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/noecamacho/coding-problems/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
