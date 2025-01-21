@@ -43,6 +43,7 @@ _This README was generated with ❤️ by [readme-md-generator](https://github.c
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/noecamacho/coding-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/noecamacho/coding-problems/tree/master/0058-length-of-last-word) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/noecamacho/coding-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/noecamacho/coding-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
